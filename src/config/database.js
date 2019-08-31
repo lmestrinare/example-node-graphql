@@ -9,3 +9,4 @@ module.exports = knex
 //}).then(data => console.log(data))
 
 knex('users').then(result => console.log(result))
+
