@@ -8,5 +8,5 @@ module.exports = knex
 //    password: 'lucio'
 //}).then(data => console.log(data))
 
-knex('users').then(result => console.log(result))
+//knex('users').then(result => console.log(result))
 
